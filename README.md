@@ -1,6 +1,6 @@
 # Olá, me chamo Gabriel Maia ! ## Bem vindo ao meu perfil GitHub👋
 🔭 Atualmente estou trabalhando como coordenador de suporte WEB de uma empresa de gestão em tecnologia<br>
-🔴 Atualmente estou cursando ADS na Universidade Presbiteriana Mackenzie 📍<br>
+🔴 Formado em análise e desenvolvimento de sistemas - Mackenzie📍<br>
 🔶 Sempre procurando novas coisas para aprender 😃<br>
 
 ## Ferramentas e Tecnologias
