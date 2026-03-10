@@ -1,5 +1,4 @@
-Seu YAML tem alguns problemas de indentação. Veja o arquivo corrigido:
-yamlname: generate animation
+name: generate animation
 
 on:
   schedule:
