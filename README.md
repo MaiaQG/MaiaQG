@@ -14,14 +14,23 @@
 ---
 
 ## 📊 Estatísticas
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-delta-two-82.vercel.app/api?username=MaiaQG&show_icons=true&theme=dark&hide_border=true&count_private=true)![GitHub Streak](https://streak-stats.demolab.com?user=MaiaQG&theme=dark&hide_border=true&locale=pt_BR)
-
-![Top Languages](https://github-readme-stats-delta-two-82.vercel.app/api/top-langs/?username=MaiaQG&layout=compact&theme=dark&hide_border=true)
-
-
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-delta-two-82.vercel.app/api?username=MaiaQG&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=MaiaQG&theme=dark&hide_border=true&locale=pt_BR" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats-delta-two-82.vercel.app/api/top-langs/?username=MaiaQG&layout=compact&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -35,9 +44,6 @@
 ---
 
 <div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=MaiaQG&color=green&style=flat-square&label=Visitantes)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaiaQG/MaiaQG/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaiaQG/MaiaQG/output/github-contribution-grid-snake.svg" />
