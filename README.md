@@ -1,7 +1,7 @@
 # Olá, me chamo Gabriel Maia ! ## Bem vindo ao meu perfil GitHub👋
 🔭 Trabalhando como desenvolvedor FullStack
 🔴 Formado em análise e desenvolvimento de sistemas - Mackenzie📍<br>
-🔶 Sempre procurando novas coisas para aprender 😃<br>
+🔶 Sempre procurando novas coisas para aprender <br>
 
 ## Ferramentas e Tecnologias
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width=50 height=50 /></a>
@@ -17,6 +17,5 @@
 ## Contatos:
 <div><a href="https://instagram.com/maaia_a" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-maia-a37b68212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
-<div><a href="https://github.com/MaiaQG"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaQG&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiaQG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
 
 ![Snake animation](https://github.com/MaiaQG/MaiaQG/blob/output/github-contribution-grid-snake.svg)
