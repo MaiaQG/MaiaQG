@@ -1,9 +1,10 @@
-#  Olá, me chamo Gabriel Maia! 👋
-## Bem-vindo ao meu perfil GitHub
+# Olá, me chamo Gabriel Maia! 
 
-🖥️ Desenvolvedor FullStack com foco em Backend, apaixonado por construir soluções robustas e escaláveis.<br>
-🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Mackenzie.<br>
-♦️ Sempre procurando novas coisas para aprender e evoluir profissionalmente.
+Desenvolvedor FullStack, apaixonado por construir soluções robustas e escaláveis.
+Formado em Análise e Desenvolvimento de Sistemas pela Universidade Mackenzie
+
+Atualmente aprofundando minha especialização em arquitetura de sistemas e boas práticas de desenvolvimento,
+sempre buscando entregar software de qualidade e impacto real. 
 
 ---
 
